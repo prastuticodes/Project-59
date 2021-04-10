@@ -1,0 +1,71 @@
+#intro {
+ padding: 20px;
+ font-size: 18px;
+ text-align: center;   
+  background: linear-gradient(#fec5bb 0%,#90e0ef 100%); 
+  height: 100%;  
+} 
+body {
+ text-align: center; 
+ background-repeat: no-repeat;      
+}
+.empty {
+ height: 6px;
+    background-color: #f0a6ca;
+    width: 70px;
+    margin: 8px auto;
+}
+h1 {
+  text-shadow: 2px 2px #be95c4;  
+  font-size: 50px;    
+}
+p {
+ font-family: 'Kaushan Script', cursive;
+
+ font-size: 25px;   
+}
+img {
+border-radius: 20%;
+    height: 500px;
+    width: 500px;
+}
+.menu {
+position: fixed;
+background: #eaadef;
+width: 100%;
+z-index: 10;    
+top: 0px;
+margin-top: 0px;
+}
+.link, a {
+ color: #f45cbf; 
+ display: inline;
+padding-right: 50px;
+padding-left: 50px;
+font-size: 20px;
+font-family: 'Kaushan Script', cursive;
+text-shadow: 2px 2px #8625ed;
+    
+}
+.link:hover{
+  font-size: 30px;
+   color: cyan;  
+}
+h1 {
+font-family: 'Lobster', cursive;     
+}
+#about {
+ background-color: #f296be;   
+  width: 100%; 
+   height: 100%; 
+}
+#reviews {
+ background-color: #e9cff6;   
+    
+}
+#a1 {
+font-family: fantasy;   
+}
+html {
+ scroll-behavior: smooth;  
+}
